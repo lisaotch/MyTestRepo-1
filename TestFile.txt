@@ -11,3 +11,5 @@ ksu
 =======
 Dzien dobry
 >>>>>>> parent of 5951ce5 (Hi) Have a good day!)
+
+Hi!
