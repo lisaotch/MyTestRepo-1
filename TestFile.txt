@@ -3,7 +3,11 @@ My first file yay
 file changed
 
 
+<<<<<<< HEAD
 Dzien dobry
 
 Hi) Have a good day!
 ksu
+=======
+Dzien dobry
+>>>>>>> parent of 5951ce5 (Hi) Have a good day!)
